@@ -67,6 +67,9 @@ Vue de Meshwatch
 
 ![image](https://github.com/user-attachments/assets/26b6ccd2-87d9-4b19-b012-df301b2f25bc)
 
+![image](https://github.com/user-attachments/assets/dffbe7d8-26ae-411a-b240-27e0c122c22d)
+
+
 A gauche, le projet d’une gobox  Meshtastic pour le terrain. On peut y voir un module T BEAM relié en USB à un RPI 3B+ et un routeur WIFI D-LINK. A  droite, la vue de Meshwatch sur l’écran. 
 -	Freedom box
 https://freedombox.org/fr/ 
@@ -83,6 +86,7 @@ https://github.com/Jajcus/pyxmpp2
 PYXMPP2 est en client xmpp python. Il a été intégré au code source de Meshwatch afin de faire le lien entre le monde Meshtastic et le serveur XMPP.
 
 Brève description du programme
+
 Tous les programmes se trouvent dans « /home/admin/meshtalk ».
 « meshwatchproc.sh » est le programme principal. C’est un watchdog.
 « meshwatch.py » est le code source de Meshwatch.
