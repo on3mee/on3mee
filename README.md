@@ -3,6 +3,8 @@ Adapté par ON3MEE
 
 Vous trouverez les informations complètes dans "Lisez-moi.pdf"
 
+Ce projet est basé sur de l'open souce ! Il est donc destiné à l'open source et peut-être amélioré par un tiers à la seule condition de rester dans le monde open source !!!
+
 Introduction
 
 Voici le projet d’un gateway Meshtastic eJabberd. Le gateway permet de se connecter à un réseau Meshtastic via un client de messagerie de tchat instantané XMPP sur un LAN. Cela permet de pouvoir se connecter à plusieurs stations (PC, smartphone, …) sur un seul nœud Meshtastic à une interface de tchat web ou via des applications de tchat clientes XMPP. Ces applications clientes ressemblent à un tchat Messenger et sont compatible Windows, Android, IOS, …
@@ -17,12 +19,14 @@ AVERTISSEMENT !!!
 
 Je vous préviens que je ne suis pas un codeur et que je déteste PYTHON. Epargnez-moi des remarques du genre : « Vous codez mal, … » . Je suis très conscient que le projet ici n’est pas du tout bien pensé et que c’est du bricolage. Mais ça fonctionne. 
 
-Je vous mets le code à disposition. N’hésitez pas à l’améliorer et à même reprendre le projet. Je suis 100 % ouvert à toute aide comme le veut le monde du logiciel libre.
+Je vous mets le code à disposition. N’hésitez pas à l’améliorer et à même reprendre le projet. Je suis 100 % ouvert à toute aide comme le veut le monde du logiciel libre. Evidemment TOUT DOIT RESTER EN OPEN SOURCE !!!
 
 Remerciements
 Je remercie ON3CED (http://www.on3ced.com/)  pour leur aide apportée pour les différents essais du réseau Meshtastic et du gateway Freedom Box.
 
 On peut aussi remercier datagod (https://github.com/datagod/meshwatch/commits?author=datagod)  qui a créé l’outil Meshtalk qui a permis le développement de ce projet.
+
+Je remercie les membres de FR-EMCOM (https://www.fr-emcom.com/) pour leur contribution, leur soutient et les éventuelles améliorations ou refontes du projet.
 
 Contenu du package
 
