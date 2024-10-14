@@ -1,5 +1,10 @@
 Gateway Meshtastic eJebberd – Mise en marche
 Adapté par ON3MEE
+
+Vous trouverez les informations complètes dans "Lisez-moi.pdf"
+
+L'image source rpi3 -> adressez-moi un email. 
+
 Introduction
 
 Voici le projet d’un gateway Meshtastic eJabberd. Le gateway permet de se connecter à un réseau Meshtastic via un client de messagerie de tchat instantané XMPP sur un LAN. Cela permet de pouvoir se connecter à plusieurs stations (PC, smartphone, …) sur un seul nœud Meshtastic à une interface de tchat web ou via des applications de tchat clientes XMPP. Ces applications clientes ressemblent à un tchat Messenger et sont compatible Windows, Android, IOS, …
