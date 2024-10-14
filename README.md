@@ -74,17 +74,6 @@ Vue de Meshwatch
 
 ![image](https://github.com/user-attachments/assets/dffbe7d8-26ae-411a-b240-27e0c122c22d)
 
-Démo :
-
-![image](https://github.com/user-attachments/assets/9ce1e35d-e725-4574-bdb2-8bacfb9325a4)
-![image](https://github.com/user-attachments/assets/d53aa427-87d6-4c0b-88db-3d4512eec429)
-![image](https://github.com/user-attachments/assets/1e7e25ad-dd55-4397-b743-f6c9a451985b)
-![image](https://github.com/user-attachments/assets/93f9e9e2-f23d-4f4c-b76e-fa095358b37e)
-
-
-
-
-
 A gauche, le projet d’une gobox  Meshtastic pour le terrain. On peut y voir un module T BEAM relié en USB à un RPI 3B+ et un routeur WIFI D-LINK. A  droite, la vue de Meshwatch sur l’écran. 
 -	Freedom box
 https://freedombox.org/fr/ 
@@ -107,6 +96,13 @@ Tous les programmes se trouvent dans « /home/admin/meshtalk ».
 « meshwatch.py » est le code source de Meshwatch.
 « sendxmpp.py » est le sous-programme qui sert à envoyer des messages de Meshwatch vers XMPPPY2.
 Les codes sources sont disponibles avec les fichiers du projet.
+
+Démo :
+
+![image](https://github.com/user-attachments/assets/9ce1e35d-e725-4574-bdb2-8bacfb9325a4)
+![image](https://github.com/user-attachments/assets/d53aa427-87d6-4c0b-88db-3d4512eec429)
+![image](https://github.com/user-attachments/assets/1e7e25ad-dd55-4397-b743-f6c9a451985b)
+![image](https://github.com/user-attachments/assets/93f9e9e2-f23d-4f4c-b76e-fa095358b37e)
  
 CONCLUSION
 Voilà le projet Gateway Meshtastic Freedom Box.
